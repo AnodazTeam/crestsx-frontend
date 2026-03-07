@@ -108,11 +108,13 @@ crestsx-frontend/
 
 ## Deployment
 
-### Vercel
+See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.
+
+### Quick Start with Vercel
 
 1. Push to GitHub
-2. Import project in Vercel
-3. Configure environment variables
+2. Import project in [Vercel Dashboard](https://vercel.com/new)
+3. Configure environment variables (see `.env.example`)
 4. Deploy
 
 ### Other Platforms
@@ -121,10 +123,19 @@ The app is container-ready with `vercel.json` for Vercel deployment.
 
 ## Contributing
 
-1. Create a feature branch
-2. Make your changes
-3. Test thoroughly
-4. Submit a pull request
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+1. Fork the repository
+2. Create a feature branch (`feature/your-feature`)
+3. Make your changes
+4. Test thoroughly
+5. Submit a pull request
+
+## Reporting Issues
+
+Please use the GitHub issue templates:
+- [Bug Report](https://github.com/AnodazTeam/crestsx-frontend/issues/new?template=bug_report.md)
+- [Feature Request](https://github.com/AnodazTeam/crestsx-frontend/issues/new?template=feature_request.md)
 
 ## License
 
