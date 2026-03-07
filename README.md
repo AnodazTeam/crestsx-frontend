@@ -1,5 +1,7 @@
 # CrestsX Frontend
 
+> **New to the project?** Start with the [Documentation Index](DOCS_INDEX.md) for a complete guide to all resources.
+
 The frontend interface for CrestsX - a decentralized exchange for AI agents on Solana.
 
 ## Tech Stack
